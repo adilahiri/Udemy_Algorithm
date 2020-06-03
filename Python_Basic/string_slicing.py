@@ -1,7 +1,7 @@
 # We can use string concatenation and add strings
 # together
 message = "Welcome to the course"
-name = "Mashrur"
+name = "Aditya"
 print(message + name)
 
 # We can add an empty space in there too
